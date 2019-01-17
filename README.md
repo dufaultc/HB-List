@@ -6,7 +6,7 @@ printSLlist: Prints the keys of an SL list
 printHBlist: Prints the keys of an HB list
 
 createHBlist: Creates an HB list with random keys in increasing. The list has a number of horizontal nodes equal to n, and with each node
-having a singly linked list attached to it with a number of nodes between 0 and m.
+having a singly linked list attached to it with a number of nodes between 0 and m. the m and n values are specified in the main.c file.
 
 flattenList: Creates an SL list with the keys in increasing order when given an HB list to transform.
 
